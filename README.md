@@ -1,5 +1,6 @@
 ### Hi there 👋
-![codewars](https://www.codewars.com/users/lugenx/badges/large)
+
+[<img src="https://www.codewars.com/users/lugenx/badges/large">](https://www.codewars.com/users/lugenx)
 <!--
 **lugenx/lugenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
