@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://www.codewars.com/users/lugenx/badges/micro">](https://www.codewars.com/users/lugenx)
+[<img src="https://www.codewars.com/users/lugenx/badges/small">](https://www.codewars.com/users/lugenx)
 
 
 <!--
